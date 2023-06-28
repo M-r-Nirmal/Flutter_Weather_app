@@ -1,5 +1,4 @@
-![Screenshot_ (3)](https://github.com/M-r-Nirmal/Flutter_Weather_app/assets/74929999/2f4fe415-37ed-44e1-a248-cda5ec9a455d)
-![Uploading Screenshot_ (2).png…]()
+
 # flutter_application
 
 A new Flutter project.
@@ -19,5 +18,3 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-![Uploading Screenshot_ (1).png…]()
-![Uploading Screenshot_ (4).png…]()
