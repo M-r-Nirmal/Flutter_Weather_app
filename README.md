@@ -1,3 +1,5 @@
+![Screenshot_ (3)](https://github.com/M-r-Nirmal/Flutter_Weather_app/assets/74929999/2f4fe415-37ed-44e1-a248-cda5ec9a455d)
+![Uploading Screenshot_ (2).png…]()
 # flutter_application
 
 A new Flutter project.
@@ -11,10 +13,11 @@ A few resources to get you started if this is your first Flutter project:
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the![Uploading Screenshot_ (2).png…]()ading Screenshot_ (1).png…]()
-![Uploading Screenshot_ (4).png…]()
-
+For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
 
+
+![Uploading Screenshot_ (1).png…]()
+![Uploading Screenshot_ (4).png…]()
